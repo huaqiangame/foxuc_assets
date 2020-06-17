@@ -9,6 +9,20 @@ class UUIDHelper {
 	
 	}
 
+
+	public static function decompressUuidArray(arr:Array<String>):Array<String> {
+
+
+		var out=[];
+		for(i in 0...arr.length){
+
+			out.push(decompressUuid(arr[i]));
+		}
+
+		return out;
+		
+	}
+
 	public static function decompressUuid(str:String) {
 
 		

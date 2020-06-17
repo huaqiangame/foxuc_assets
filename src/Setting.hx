@@ -1,11 +1,11 @@
 import haxe.DynamicAccess;
+
 typedef SettingObj = {
 	var rawAssets:RawAssetsObj;
 	var md5AssetsMap:MD5AssetsMap;
 	var uuids:Array<String>;
+	var ?uuidsCrack:Array<String>;
 	var packedAssets:DynamicAccess<Array<Dynamic>>;
-
-	
 }
 
 typedef RawAssetsObj = {
@@ -20,12 +20,13 @@ typedef RawAssetsObj = {
 	var orientation:String;
 	var debug:Bool;
 	var uuids:Array<String>;
+
 }
 
 typedef MD5AssetsMap = {
 	var import2:Array<Dynamic>;
 	var rawassets:Array<Dynamic>;
 
-	var ?importKeys:Map<String,String>;//import
-	var ?rawassetKeys:Map<String,String>;//import
+	var ?importKeys:Map<String, String>; // import
+	var ?rawassetKeys:Map<String, String>; // import
 }

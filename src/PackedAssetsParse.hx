@@ -18,5 +18,7 @@ class PackedAssetsParse {
         
 
         return map;
-	}
+    }
+    
+   
 }
