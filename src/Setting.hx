@@ -4,6 +4,8 @@ typedef SettingObj = {
 	var md5AssetsMap:MD5AssetsMap;
 	var uuids:Array<String>;
 	var packedAssets:DynamicAccess<Dynamic>;
+
+	
 }
 
 typedef RawAssetsObj = {
@@ -21,6 +23,9 @@ typedef RawAssetsObj = {
 }
 
 typedef MD5AssetsMap = {
-	var import2:DynamicAccess<Dynamic>;
-	var rawassets:DynamicAccess<Dynamic>;
+	var import2:Array<Dynamic>;
+	var rawassets:Array<Dynamic>;
+
+	var ?importKeys:Map<String,String>;//import
+	var ?rawassetKeys:Map<String,String>;//import
 }
