@@ -1,0 +1,97 @@
+
+GameLevel1.png
+size: 1945,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Taco_Hand_1
+  rotate: true
+  xy: 1205, 30
+  size: 162, 231
+  orig: 162, 231
+  offset: 0, 0
+  index: -1
+Taco_Hand_2
+  rotate: false
+  xy: 1440, 4
+  size: 231, 251
+  orig: 231, 251
+  offset: 0, 0
+  index: -1
+Taco_Hand_3
+  rotate: false
+  xy: 1647, 263
+  size: 206, 326
+  orig: 206, 326
+  offset: 0, 0
+  index: -1
+Taco_Hand_4
+  rotate: false
+  xy: 1220, 206
+  size: 130, 383
+  orig: 130, 383
+  offset: 0, 0
+  index: -1
+Taco_Hand_5
+  rotate: false
+  xy: 725, 4
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+Taco_Hand_6
+  rotate: true
+  xy: 810, 6
+  size: 146, 391
+  orig: 146, 391
+  offset: 0, 0
+  index: -1
+Taco_Hand_7
+  rotate: true
+  xy: 1675, 37
+  size: 222, 266
+  orig: 222, 266
+  offset: 0, 0
+  index: -1
+Taco_Head
+  rotate: false
+  xy: 1354, 259
+  size: 289, 330
+  orig: 289, 330
+  offset: 0, 0
+  index: -1
+Taco_Rock_1
+  rotate: true
+  xy: 690, 156
+  size: 433, 302
+  orig: 433, 302
+  offset: 0, 0
+  index: -1
+Taco_Rock_1_Shine
+  rotate: true
+  xy: 4, 24
+  size: 565, 424
+  orig: 565, 424
+  offset: 0, 0
+  index: -1
+Taco_Rock_2
+  rotate: true
+  xy: 996, 196
+  size: 393, 220
+  orig: 393, 221
+  offset: 0, 0
+  index: -1
+Taco_Rock_2_Shine
+  rotate: true
+  xy: 432, 129
+  size: 460, 254
+  orig: 460, 254
+  offset: 0, 0
+  index: -1
+bzzy
+  rotate: false
+  xy: 432, 15
+  size: 289, 110
+  orig: 289, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+-cp src
+-D analyzer-optimize
+-main Main
+-debug
+-dce full
+-hl bin/main.hl
+-lib  json2object

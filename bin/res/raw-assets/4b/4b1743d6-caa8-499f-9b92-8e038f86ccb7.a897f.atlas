@@ -1,0 +1,76 @@
+
+GameLevel2.png
+size: 1971,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Croc_Body
+  rotate: false
+  xy: 808, 8
+  size: 680, 349
+  orig: 680, 369
+  offset: 0, 0
+  index: -1
+Croc_Jaw
+  rotate: false
+  xy: 1492, 119
+  size: 450, 238
+  orig: 450, 238
+  offset: 0, 0
+  index: -1
+Croc_Rock
+  rotate: true
+  xy: 808, 361
+  size: 701, 739
+  orig: 701, 739
+  offset: 0, 0
+  index: -1
+Croc_Rock_Shine
+  rotate: true
+  xy: 4, 272
+  size: 790, 800
+  orig: 790, 800
+  offset: 0, 0
+  index: -1
+Croc_Teeth_down
+  rotate: true
+  xy: 1856, 400
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+Croc_Teeth_upper
+  rotate: false
+  xy: 1551, 439
+  size: 205, 182
+  orig: 205, 182
+  offset: 0, 0
+  index: -1
+Croc_Teeth_upper-2
+  rotate: true
+  xy: 1787, 40
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+Croc_Tongue
+  rotate: true
+  xy: 1760, 379
+  size: 242, 92
+  orig: 242, 92
+  offset: 0, 0
+  index: -1
+Croc_Upper jaw
+  rotate: true
+  xy: 1551, 625
+  size: 437, 416
+  orig: 437, 416
+  offset: 0, 0
+  index: -1
+sqje
+  rotate: false
+  xy: 1492, 4
+  size: 291, 111
+  orig: 291, 111
+  offset: 0, 0
+  index: -1
