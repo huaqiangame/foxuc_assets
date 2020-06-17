@@ -43,6 +43,9 @@ class Main {
 
 		}
 
+		var findNums=0;
+
+		var copyNums=0;
 		// key+"."+key.
 		for (key => value in packedassets) {
 			trace(key);
@@ -56,14 +59,25 @@ class Main {
 			//copy json到文件夹
 			if(FileSystem.exists(filesName)){
 
-				var fo=value[0];
-				if(fo!=null){
-					var distFolder:Array<Dynamic>=assets.get(Std.string(fo));
-					if(distFolder!=null){
-						File.copy(filesName,createFloder(distFolder[0])+"/"+file);
+				findNums++;
+				for(fo in value){
+					if(fo!=null){
+						var distFolder:Array<Dynamic>=assets.get(Std.string(fo));
+						if(distFolder!=null){
+							//var distFiles=distFolder[0]+"/"
+							File.copy(filesName,createFloder(distFolder[0])+"/"+file);
+
+
+
+							copyNums++;
+						}else{
+							trace('不存在'+distFolder   +'原始文件 ${filesName}');
+						}
+						
 					}
-					
 				}
+				
+				
 				
 			}
 			
@@ -71,11 +85,12 @@ class Main {
 
 		}
 
-		trace('创建目录完毕');
+		trace('创建目录完毕  找到文件 $findNums 拷贝文件 $copyNums');
 	}
 
 	static function createFloder(folderName:String):String {
-		folderName = "bin/assets/" + folderName;
+	
+		folderName = Path.withoutExtension("bin/assets/" + folderName).replace(" ","");
 		if (!FileSystem.exists(folderName)) {
 			FileSystem.createDirectory(folderName);
 		}

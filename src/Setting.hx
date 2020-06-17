@@ -3,14 +3,14 @@ typedef SettingObj = {
 	var rawAssets:RawAssetsObj;
 	var md5AssetsMap:MD5AssetsMap;
 	var uuids:Array<String>;
-	var packedAssets:DynamicAccess<Dynamic>;
+	var packedAssets:DynamicAccess<Array<Dynamic>>;
 
 	
 }
 
 typedef RawAssetsObj = {
-	var assets:DynamicAccess<Dynamic>;
-	var internal:DynamicAccess<Dynamic>;
+	var assets:DynamicAccess<Array<Dynamic>>;
+	var internal:DynamicAccess<Array<Dynamic>>;
 	var assetTypes:Array<String>;
 	var jsList:Array<String>;
 	var launchScene:String;
