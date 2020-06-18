@@ -3,7 +3,7 @@ import sys.FileSystem;
 import haxe.Json;
 import Setting.SettingObj;
 import sys.io.File;
-import json2object.JsonParser;
+
 
 using StringTools;
 
@@ -12,6 +12,7 @@ class Main {
 		//	trace("Hello, world!");
 		// var x=UUIDHelper.decompressUuid('3aTva/v/lOc7vg1JhzKyWH');
 
+		var time=Date.now().getTime();
 		var content:String = File.getContent('bin/data/settings.89580.json');
 
 		var setting:SettingObj = Json.parse(content);
@@ -148,7 +149,16 @@ class Main {
 					var ext=Path.withoutDirectory(fss);
 					var disFile=Path.directory(fs)+"/" + ext;
 					var fromFile=folder+  fss;
-					File.copy(fromFile,disFile);
+					if(FileSystem.exists(fromFile)){
+						
+						if(!FileSystem.exists(disFile)){
+							File.copy(fromFile,disFile);
+						}
+						
+					}else{
+						trace('error $fromFile');
+					}
+					
 				}
 
 			}
@@ -157,7 +167,7 @@ class Main {
 		}
 
 		File.saveContent("bin/assets/uuid.json",Json.stringify(keyMaps));
-		trace('保存完毕');
+		trace('保存完毕'+(Date.now().getTime()-time));
 	}
 
 	

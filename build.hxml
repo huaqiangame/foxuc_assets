@@ -3,5 +3,13 @@
 -main Main
 -debug
 -dce full
+--each
 -hl bin/main.hl
--lib  json2object
+--next
+--java-lib bin/sqlite-jdbc-3.31.1.jar
+--jvm bin/main.jar
+--next
+-lib hxnodejs
+-js bin/main.js
+
+
