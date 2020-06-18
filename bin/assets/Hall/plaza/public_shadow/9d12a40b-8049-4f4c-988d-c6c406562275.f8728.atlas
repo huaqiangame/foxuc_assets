@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/quan-01
+  rotate: false
+  xy: 2, 335
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-02
+  rotate: false
+  xy: 2, 224
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-03
+  rotate: false
+  xy: 187, 335
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-04
+  rotate: false
+  xy: 2, 113
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-05
+  rotate: false
+  xy: 187, 224
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-06
+  rotate: false
+  xy: 372, 335
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-07
+  rotate: false
+  xy: 2, 2
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-08
+  rotate: false
+  xy: 187, 113
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-09
+  rotate: false
+  xy: 372, 224
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-10
+  rotate: false
+  xy: 557, 335
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-11
+  rotate: false
+  xy: 187, 2
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-12
+  rotate: false
+  xy: 372, 113
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-13
+  rotate: false
+  xy: 557, 224
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-14
+  rotate: false
+  xy: 742, 335
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-15
+  rotate: false
+  xy: 372, 2
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-16
+  rotate: false
+  xy: 557, 113
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-18
+  rotate: false
+  xy: 742, 224
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+02/quan-19
+  rotate: false
+  xy: 557, 2
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1

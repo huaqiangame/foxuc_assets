@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"wordCall0","texture":"4aTeO4I5BNNKXKvkDnANlM","rect":[930,659,81,46],"offset":[0,0],"originalSize":[81,46],"capInsets":[0,0,0,0]}},{"__type__":"cc.AnimationClip","_name":"call0","_duration":0.016666666666666666,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"18NTSq5dlBbbS6EC4fquZn"}}]}}}}]

@@ -1,0 +1,34 @@
+
+bg2.png
+size: 765,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 205, 140
+  size: 277, 347
+  orig: 277, 347
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 3
+  size: 484, 201
+  orig: 484, 201
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 484, 195
+  size: 292, 279
+  orig: 292, 279
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 205, 2
+  size: 465, 136
+  orig: 465, 136
+  offset: 0, 0
+  index: -1

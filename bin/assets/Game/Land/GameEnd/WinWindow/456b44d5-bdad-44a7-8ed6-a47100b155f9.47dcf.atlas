@@ -1,0 +1,153 @@
+
+xujl.png
+size: 1048,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 480, 174
+  size: 425, 150
+  orig: 425, 150
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 632, 264
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+Gold_Atlas_000
+  rotate: false
+  xy: 886, 159
+  size: 86, 85
+  orig: 102, 102
+  offset: 8, 8
+  index: -1
+Gold_Atlas_001
+  rotate: true
+  xy: 886, 75
+  size: 82, 86
+  orig: 102, 102
+  offset: 11, 8
+  index: -1
+Gold_Atlas_002
+  rotate: true
+  xy: 881, 2
+  size: 71, 86
+  orig: 102, 102
+  offset: 14, 8
+  index: -1
+Gold_Atlas_003
+  rotate: false
+  xy: 989, 258
+  size: 53, 86
+  orig: 102, 102
+  offset: 25, 8
+  index: -1
+Gold_Atlas_004
+  rotate: false
+  xy: 1024, 433
+  size: 22, 85
+  orig: 102, 102
+  offset: 41, 8
+  index: -1
+Gold_Atlas_005
+  rotate: false
+  xy: 974, 159
+  size: 39, 85
+  orig: 102, 102
+  offset: 34, 7
+  index: -1
+Gold_Atlas_006
+  rotate: false
+  xy: 974, 72
+  size: 60, 85
+  orig: 102, 102
+  offset: 25, 7
+  index: -1
+Gold_Atlas_007
+  rotate: true
+  xy: 632, 522
+  size: 77, 86
+  orig: 102, 102
+  offset: 15, 6
+  index: -1
+bk
+  rotate: true
+  xy: 497, 28
+  size: 144, 127
+  orig: 144, 127
+  offset: 0, 0
+  index: -1
+cb
+  rotate: true
+  xy: 888, 346
+  size: 172, 134
+  orig: 172, 134
+  offset: 0, 0
+  index: -1
+cd
+  rotate: false
+  xy: 2, 601
+  size: 742, 196
+  orig: 742, 196
+  offset: 0, 0
+  index: -1
+diwen
+  rotate: true
+  xy: 746, 520
+  size: 277, 300
+  orig: 277, 300
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 626, 20
+  size: 126, 115
+  orig: 126, 125
+  offset: 0, 10
+  index: -1
+l
+  rotate: false
+  xy: 632, 137
+  size: 134, 125
+  orig: 134, 132
+  offset: 0, 7
+  index: -1
+x
+  rotate: true
+  xy: 768, 131
+  size: 131, 116
+  orig: 131, 128
+  offset: 0, 12
+  index: -1
+xx
+  rotate: false
+  xy: 2, 167
+  size: 476, 432
+  orig: 476, 432
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: true
+  xy: 888, 246
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+xyjl
+  rotate: false
+  xy: 2, 24
+  size: 493, 141
+  orig: 493, 141
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 754, 13
+  size: 125, 116
+  orig: 127, 140
+  offset: 2, 24
+  index: -1

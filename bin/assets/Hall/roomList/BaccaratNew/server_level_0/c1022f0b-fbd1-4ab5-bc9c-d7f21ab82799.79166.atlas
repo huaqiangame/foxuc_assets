@@ -1,0 +1,104 @@
+
+fish19.png
+size: 2008,1937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_0
+  rotate: false
+  xy: 1256, 420
+  size: 416, 1515
+  orig: 416, 1515
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 420
+  size: 416, 1515
+  orig: 416, 1515
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 2
+  size: 416, 1515
+  orig: 416, 1515
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 420, 420
+  size: 416, 1515
+  orig: 416, 1515
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 838, 420
+  size: 416, 1515
+  orig: 416, 1515
+  offset: 0, 0
+  index: -1
+body_ray
+  rotate: false
+  xy: 1674, 32
+  size: 209, 758
+  orig: 209, 758
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: true
+  xy: 1519, 2
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+eyelid_R
+  rotate: true
+  xy: 1596, 10
+  size: 20, 86
+  orig: 20, 86
+  offset: 0, 0
+  index: -1
+hand_0
+  rotate: false
+  xy: 1674, 792
+  size: 332, 227
+  orig: 332, 227
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 1674, 1021
+  size: 332, 227
+  orig: 332, 227
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 1674, 1250
+  size: 332, 227
+  orig: 332, 227
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 1674, 1479
+  size: 332, 227
+  orig: 332, 227
+  offset: 0, 0
+  index: -1
+hand_4
+  rotate: false
+  xy: 1674, 1708
+  size: 332, 227
+  orig: 332, 227
+  offset: 0, 0
+  index: -1
+hand_ray
+  rotate: true
+  xy: 1885, 624
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1

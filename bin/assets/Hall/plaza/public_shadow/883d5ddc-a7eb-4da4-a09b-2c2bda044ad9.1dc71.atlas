@@ -1,0 +1,167 @@
+
+dianci.png
+size: 1740,625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tron_Silver
+  rotate: true
+  xy: 1466, 17
+  size: 172, 212
+  orig: 172, 212
+  offset: 0, 0
+  index: -1
+Tron_light_left_add
+  rotate: false
+  xy: 796, 113
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+Tron_light_left_add_Attack
+  rotate: true
+  xy: 1597, 489
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+d_000
+  rotate: false
+  xy: 1410, 193
+  size: 177, 212
+  orig: 215, 213
+  offset: 20, 1
+  index: -1
+d_001
+  rotate: true
+  xy: 1034, 4
+  size: 185, 212
+  orig: 215, 213
+  offset: 16, 1
+  index: -1
+d_002
+  rotate: false
+  xy: 1012, 193
+  size: 195, 212
+  orig: 215, 213
+  offset: 11, 1
+  index: -1
+d_003
+  rotate: false
+  xy: 1211, 193
+  size: 195, 212
+  orig: 215, 213
+  offset: 11, 1
+  index: -1
+d_004
+  rotate: false
+  xy: 1213, 409
+  size: 189, 212
+  orig: 215, 213
+  offset: 14, 1
+  index: -1
+d_005
+  rotate: false
+  xy: 1406, 409
+  size: 187, 212
+  orig: 215, 213
+  offset: 15, 1
+  index: -1
+d_006
+  rotate: true
+  xy: 1250, 4
+  size: 185, 212
+  orig: 215, 213
+  offset: 16, 1
+  index: -1
+d_007
+  rotate: false
+  xy: 1012, 409
+  size: 197, 212
+  orig: 215, 213
+  offset: 7, 1
+  index: -1
+d_008
+  rotate: true
+  xy: 796, 406
+  size: 215, 212
+  orig: 215, 213
+  offset: 0, 1
+  index: -1
+d_009
+  rotate: true
+  xy: 796, 187
+  size: 215, 212
+  orig: 215, 213
+  offset: 0, 1
+  index: -1
+dc_000
+  rotate: true
+  xy: 697, 114
+  size: 507, 95
+  orig: 530, 96
+  offset: 0, 0
+  index: -1
+dc_001
+  rotate: false
+  xy: 4, 11
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_002
+  rotate: true
+  xy: 103, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_003
+  rotate: true
+  xy: 202, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_004
+  rotate: true
+  xy: 301, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_005
+  rotate: true
+  xy: 400, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_006
+  rotate: true
+  xy: 499, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_007
+  rotate: false
+  xy: 519, 11
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_008
+  rotate: true
+  xy: 598, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1
+dc_009
+  rotate: true
+  xy: 4, 110
+  size: 511, 95
+  orig: 530, 96
+  offset: 0, 1
+  index: -1

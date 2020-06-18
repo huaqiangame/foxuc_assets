@@ -1,0 +1,124 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bgl3
+  rotate: false
+  xy: 2, 190
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+image/laizi
+  rotate: false
+  xy: 730, 2
+  size: 261, 83
+  orig: 261, 83
+  offset: 0, 0
+  index: -1
+image/xulie-01
+  rotate: false
+  xy: 2, 9
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-02
+  rotate: false
+  xy: 804, 811
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-03
+  rotate: false
+  xy: 184, 9
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-04
+  rotate: false
+  xy: 804, 630
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-05
+  rotate: false
+  xy: 366, 9
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-06
+  rotate: false
+  xy: 804, 449
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-07
+  rotate: false
+  xy: 548, 9
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-08
+  rotate: false
+  xy: 804, 268
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-09
+  rotate: false
+  xy: 804, 87
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bgl
+  rotate: false
+  xy: 2, 404
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+image/bgl3-1
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+image/xulie-10
+  rotate: false
+  xy: 504, 725
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-11
+  rotate: false
+  xy: 504, 544
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+image/xulie-12
+  rotate: false
+  xy: 686, 725
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+GameLevel3.png
+size: 2000,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Deep_Body
+  rotate: true
+  xy: 1383, 407
+  size: 467, 473
+  orig: 467, 473
+  offset: 0, 0
+  index: -1
+Deep_Fin
+  rotate: true
+  xy: 758, 20
+  size: 162, 224
+  orig: 162, 224
+  offset: 0, 0
+  index: -1
+Deep_Gill
+  rotate: false
+  xy: 1132, 64
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+Deep_Glow
+  rotate: false
+  xy: 1383, 46
+  size: 339, 357
+  orig: 339, 357
+  offset: 0, 0
+  index: -1
+Deep_Light
+  rotate: true
+  xy: 1726, 24
+  size: 379, 270
+  orig: 379, 270
+  offset: 0, 0
+  index: -1
+Deep_Rock
+  rotate: true
+  xy: 758, 186
+  size: 688, 621
+  orig: 688, 621
+  offset: 0, 0
+  index: -1
+Deep_Rock_Shine
+  rotate: true
+  xy: 4, 102
+  size: 772, 750
+  orig: 772, 750
+  offset: 0, 0
+  index: -1
+Deep_Tail
+  rotate: true
+  xy: 986, 4
+  size: 178, 142
+  orig: 178, 142
+  offset: 0, 0
+  index: -1
+ayjs
+  rotate: false
+  xy: 4, 18
+  size: 287, 80
+  orig: 287, 80
+  offset: 0, 0
+  index: -1

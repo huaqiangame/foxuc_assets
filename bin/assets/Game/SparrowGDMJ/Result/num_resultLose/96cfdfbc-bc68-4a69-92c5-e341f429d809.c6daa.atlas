@@ -1,0 +1,55 @@
+
+waring.png
+size: 998,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_HW2_Font_Base
+  rotate: false
+  xy: 558, 62
+  size: 212, 72
+  orig: 212, 72
+  offset: 0, 0
+  index: -1
+UI_HW2_Font_Boss
+  rotate: false
+  xy: 4, 4
+  size: 550, 130
+  orig: 552, 132
+  offset: 1, 1
+  index: -1
+UI_HW2_Font_Max
+  rotate: false
+  xy: 838, 64
+  size: 140, 70
+  orig: 140, 72
+  offset: 0, 1
+  index: -1
+UI_HW2_Line_Box
+  rotate: false
+  xy: 774, 92
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+UI_HW2_Line_Red
+  rotate: false
+  xy: 558, 16
+  size: 319, 8
+  orig: 320, 8
+  offset: 0, 0
+  index: -1
+UI_HW2_Line_Warning
+  rotate: false
+  xy: 838, 28
+  size: 156, 32
+  orig: 156, 32
+  offset: 0, 0
+  index: -1
+UI_HW2_YellowLight
+  rotate: false
+  xy: 558, 42
+  size: 276, 16
+  orig: 276, 16
+  offset: 0, 0
+  index: -1

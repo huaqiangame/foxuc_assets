@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 641,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_OctopusHole_Eyes
+  rotate: true
+  xy: 562, 71
+  size: 217, 75
+  orig: 217, 75
+  offset: 0, 0
+  index: -1
+Bg_OctopusHole_OctopusHead
+  rotate: true
+  xy: 4, 4
+  size: 284, 554
+  orig: 286, 556
+  offset: 2, 2
+  index: -1

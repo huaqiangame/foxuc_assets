@@ -1,0 +1,27 @@
+
+fish22.png
+size: 304,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KingTaco
+  rotate: false
+  xy: 4, 4
+  size: 102, 618
+  orig: 102, 618
+  offset: 0, 0
+  index: -1
+{0F2167AE-346B-4869-90EC-7FB87AE3319D}
+  rotate: false
+  xy: 110, 260
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+{87D1C2FC-F530-471B-BDB1-22CEDE026AAF}
+  rotate: false
+  xy: 110, 432
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1

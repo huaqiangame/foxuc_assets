@@ -1,0 +1,83 @@
+
+bao.png
+size: 799,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle
+  rotate: false
+  xy: 4, 72
+  size: 376, 376
+  orig: 400, 400
+  offset: 12, 12
+  index: -1
+Gold_Atlas_000
+  rotate: true
+  xy: 641, 102
+  size: 86, 85
+  orig: 102, 102
+  offset: 8, 8
+  index: -1
+Gold_Atlas_001
+  rotate: true
+  xy: 641, 16
+  size: 82, 86
+  orig: 102, 102
+  offset: 11, 8
+  index: -1
+Gold_Atlas_002
+  rotate: false
+  xy: 730, 102
+  size: 65, 86
+  orig: 102, 102
+  offset: 18, 8
+  index: -1
+Gold_Atlas_003
+  rotate: false
+  xy: 731, 13
+  size: 39, 85
+  orig: 102, 102
+  offset: 31, 8
+  index: -1
+Gold_Atlas_004
+  rotate: true
+  xy: 93, 29
+  size: 39, 85
+  orig: 102, 102
+  offset: 34, 7
+  index: -1
+Gold_Atlas_005
+  rotate: true
+  xy: 4, 8
+  size: 60, 85
+  orig: 102, 102
+  offset: 25, 7
+  index: -1
+Gold_Atlas_006
+  rotate: true
+  xy: 538, 4
+  size: 82, 86
+  orig: 102, 102
+  offset: 12, 6
+  index: -1
+T_CompetitionReward
+  rotate: false
+  xy: 538, 192
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hh
+  rotate: true
+  xy: 384, 23
+  size: 425, 150
+  orig: 425, 150
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: true
+  xy: 538, 90
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1

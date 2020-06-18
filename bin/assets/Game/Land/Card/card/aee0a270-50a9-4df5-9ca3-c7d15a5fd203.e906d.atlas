@@ -1,0 +1,137 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huhu
+  rotate: false
+  xy: 271, 2
+  size: 167, 187
+  orig: 167, 187
+  offset: 0, 0
+  index: -1
+shandian-01
+  rotate: false
+  xy: 2, 518
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-02
+  rotate: false
+  xy: 2, 38
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-03
+  rotate: true
+  xy: 271, 729
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-04
+  rotate: false
+  xy: 751, 518
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-05
+  rotate: true
+  xy: 271, 460
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-06
+  rotate: false
+  xy: 751, 38
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-07
+  rotate: true
+  xy: 271, 191
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian-08
+  rotate: false
+  xy: 2, 482
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-09
+  rotate: false
+  xy: 2, 2
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-10
+  rotate: true
+  xy: 271, 693
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-11
+  rotate: false
+  xy: 751, 482
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-12
+  rotate: true
+  xy: 271, 424
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-13
+  rotate: false
+  xy: 751, 2
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-14
+  rotate: true
+  xy: 271, 155
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian-15
+  rotate: false
+  xy: 2, 2
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1
+shandian-16
+  rotate: false
+  xy: 271, 2
+  size: 267, 478
+  orig: 267, 478
+  offset: 0, 0
+  index: -1

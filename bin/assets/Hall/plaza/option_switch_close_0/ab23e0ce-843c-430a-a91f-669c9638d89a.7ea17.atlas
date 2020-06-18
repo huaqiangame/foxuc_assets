@@ -1,0 +1,27 @@
+
+wz.png
+size: 708,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_HW2_SelfFont
+  rotate: true
+  xy: 512, 62
+  size: 236, 80
+  orig: 236, 80
+  offset: 0, 0
+  index: -1
+UI_HW2_SelfJT
+  rotate: false
+  xy: 594, 126
+  size: 112, 172
+  orig: 112, 172
+  offset: 0, 0
+  index: -1
+UI_HW2_SelfSlow
+  rotate: false
+  xy: 2, 2
+  size: 508, 296
+  orig: 508, 296
+  offset: 0, 0
+  index: -1

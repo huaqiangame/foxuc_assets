@@ -1,0 +1,167 @@
+
+fish26.png
+size: 2041,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_diffuse
+  rotate: true
+  xy: 352, 140
+  size: 142, 141
+  orig: 143, 143
+  offset: 0, 1
+  index: -1
+eye_light
+  rotate: false
+  xy: 497, 157
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+eye_pupil
+  rotate: true
+  xy: 531, 100
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+eye_shadow
+  rotate: true
+  xy: 206, 139
+  size: 143, 142
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+eye_specular
+  rotate: false
+  xy: 1998, 1764
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+general_Body_A
+  rotate: false
+  xy: 4, 933
+  size: 643, 1103
+  orig: 643, 1103
+  offset: 0, 0
+  index: -1
+general_Body_B
+  rotate: true
+  xy: 206, 286
+  size: 643, 1103
+  orig: 643, 1103
+  offset: 0, 0
+  index: -1
+general_Body_C
+  rotate: false
+  xy: 651, 933
+  size: 643, 1103
+  orig: 643, 1103
+  offset: 0, 0
+  index: -1
+general_Body_D
+  rotate: false
+  xy: 1298, 933
+  size: 643, 1103
+  orig: 643, 1103
+  offset: 0, 0
+  index: -1
+general_Chin_A
+  rotate: true
+  xy: 1313, 292
+  size: 637, 331
+  orig: 637, 331
+  offset: 0, 0
+  index: -1
+general_Chin_B
+  rotate: true
+  xy: 1648, 292
+  size: 637, 331
+  orig: 637, 331
+  offset: 0, 0
+  index: -1
+general_Dorsal
+  rotate: false
+  xy: 1945, 1603
+  size: 49, 200
+  orig: 49, 200
+  offset: 0, 0
+  index: -1
+general_Dorsal_Fin
+  rotate: true
+  xy: 240, 4
+  size: 131, 287
+  orig: 131, 287
+  offset: 0, 0
+  index: -1
+general_Glow
+  rotate: false
+  xy: 1890, 164
+  size: 125, 124
+  orig: 125, 125
+  offset: 0, 1
+  index: -1
+general_Hand_L_A
+  rotate: false
+  xy: 751, 60
+  size: 172, 222
+  orig: 172, 222
+  offset: 0, 0
+  index: -1
+general_Hand_L_B
+  rotate: false
+  xy: 927, 60
+  size: 172, 222
+  orig: 172, 222
+  offset: 0, 0
+  index: -1
+general_Hand_R_A
+  rotate: false
+  xy: 1103, 72
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+general_Hand_R_B
+  rotate: false
+  xy: 1279, 72
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+general_Light
+  rotate: false
+  xy: 4, 117
+  size: 198, 812
+  orig: 198, 812
+  offset: 0, 0
+  index: -1
+general_Tail
+  rotate: false
+  xy: 626, 24
+  size: 121, 258
+  orig: 129, 258
+  offset: 8, 0
+  index: -1
+general_Tooth_A
+  rotate: false
+  xy: 1455, 100
+  size: 431, 188
+  orig: 431, 188
+  offset: 0, 0
+  index: -1
+general_Tooth_B
+  rotate: true
+  xy: 4, 28
+  size: 85, 232
+  orig: 85, 232
+  offset: 0, 0
+  index: -1
+general_Tooth_C
+  rotate: false
+  xy: 1945, 1807
+  size: 80, 229
+  orig: 80, 229
+  offset: 0, 0
+  index: -1

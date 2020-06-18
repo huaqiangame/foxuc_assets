@@ -1,0 +1,41 @@
+
+fish18.png
+size: 851,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 2, 2
+  size: 153, 509
+  orig: 154, 509
+  offset: 1, 0
+  index: -1
+Dorsal fin_1
+  rotate: true
+  xy: 513, 9
+  size: 32, 101
+  orig: 32, 101
+  offset: 0, 0
+  index: -1
+Dorsal fin_2
+  rotate: true
+  xy: 659, 92
+  size: 63, 190
+  orig: 67, 192
+  offset: 2, 1
+  index: -1
+Dorsal fin_3
+  rotate: true
+  xy: 659, 24
+  size: 66, 170
+  orig: 73, 196
+  offset: 5, 26
+  index: -1
+Fin_L
+  rotate: false
+  xy: 513, 43
+  size: 144, 112
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
