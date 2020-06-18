@@ -1,0 +1,48 @@
+
+hongheidazhan_zhayandonghua.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_hei
+  rotate: false
+  xy: 2, 6
+  size: 226, 56
+  orig: 226, 56
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 475, 37
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 475, 10
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 443, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: true
+  xy: 443, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+jianyu_01
+  rotate: false
+  xy: 230, 7
+  size: 211, 55
+  orig: 211, 55
+  offset: 0, 0
+  index: -1

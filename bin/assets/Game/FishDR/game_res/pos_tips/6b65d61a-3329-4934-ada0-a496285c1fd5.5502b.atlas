@@ -1,0 +1,83 @@
+
+longhudazhan4_zhongjiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongheidazhan_guanghuan
+  rotate: false
+  xy: 2, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_01
+  rotate: false
+  xy: 2, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_02
+  rotate: false
+  xy: 132, 259
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_03
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_04
+  rotate: false
+  xy: 259, 259
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_05
+  rotate: false
+  xy: 129, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_06
+  rotate: false
+  xy: 129, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_07
+  rotate: false
+  xy: 256, 132
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_08
+  rotate: false
+  xy: 256, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_09
+  rotate: false
+  xy: 383, 132
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+hongheidazhan_zhongjiang_10
+  rotate: false
+  xy: 383, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

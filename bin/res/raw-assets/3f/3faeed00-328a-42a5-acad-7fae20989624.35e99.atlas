@@ -1,0 +1,83 @@
+
+hongheidazhan_daojishi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghei_daojishi_01
+  rotate: false
+  xy: 2, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_02
+  rotate: false
+  xy: 107, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_03
+  rotate: false
+  xy: 212, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_04
+  rotate: false
+  xy: 317, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_05
+  rotate: false
+  xy: 422, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_06
+  rotate: false
+  xy: 527, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_07
+  rotate: false
+  xy: 632, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+honghei_daojishi_08
+  rotate: false
+  xy: 737, 2
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+hongheidazhan_1
+  rotate: false
+  xy: 934, 38
+  size: 26, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+hongheidazhan_2
+  rotate: false
+  xy: 889, 37
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+hongheidazhan_3
+  rotate: false
+  xy: 842, 36
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1

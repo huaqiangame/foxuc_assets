@@ -1,0 +1,272 @@
+
+hongheidazhan_huanghou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghei_huanghou_fazhang
+  rotate: true
+  xy: 2, 19
+  size: 58, 136
+  orig: 58, 136
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaocb1
+  rotate: false
+  xy: 1006, 496
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaocb2
+  rotate: true
+  xy: 1006, 484
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaomao
+  rotate: false
+  xy: 1006, 469
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaoshen
+  rotate: false
+  xy: 844, 210
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaotou
+  rotate: false
+  xy: 872, 210
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaowb
+  rotate: true
+  xy: 179, 253
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+honghei_huanghou_niaoyan
+  rotate: true
+  xy: 1014, 249
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+honghei_huanghou_pifeng
+  rotate: false
+  xy: 2, 79
+  size: 175, 188
+  orig: 175, 188
+  offset: 0, 0
+  index: -1
+honghei_huanghou_shenti
+  rotate: false
+  xy: 2, 269
+  size: 194, 241
+  orig: 194, 241
+  offset: 0, 0
+  index: -1
+honghei_huanghou_suifa1
+  rotate: false
+  xy: 163, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+honghei_huanghou_suifa2
+  rotate: true
+  xy: 922, 216
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+honghei_huanghou_suifa3
+  rotate: false
+  xy: 140, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+honghei_huanghou_suifa4
+  rotate: true
+  xy: 48, 4
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+honghei_huanghou_suifa5
+  rotate: true
+  xy: 2, 4
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+honghei_huanghou_tou
+  rotate: true
+  xy: 740, 232
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+honghei_huanghou_tou2
+  rotate: true
+  xy: 856, 232
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+honghei_huanghou_xin
+  rotate: true
+  xy: 899, 210
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+honghei_huanghou_yiling
+  rotate: false
+  xy: 602, 222
+  size: 136, 104
+  orig: 136, 104
+  offset: 0, 0
+  index: -1
+honghei_huanghou_youbi
+  rotate: true
+  xy: 972, 229
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+honghei_huanghou_youjian
+  rotate: true
+  xy: 786, 198
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+honghei_huanghou_youshou
+  rotate: false
+  xy: 821, 198
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+honghei_huanghou_youyan
+  rotate: true
+  xy: 34, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+honghei_huanghou_zui
+  rotate: false
+  xy: 947, 218
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+honghei_huanghou_zuobi
+  rotate: true
+  xy: 140, 31
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+honghei_huanghou_zuojian
+  rotate: true
+  xy: 972, 263
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+honghei_huanghou_zuoshou
+  rotate: true
+  xy: 740, 205
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+honghei_huanghou_zuoyan
+  rotate: true
+  xy: 179, 226
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+wanghou_feng_01
+  rotate: false
+  xy: 198, 328
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_02
+  rotate: false
+  xy: 400, 420
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_03
+  rotate: false
+  xy: 400, 328
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_04
+  rotate: false
+  xy: 602, 420
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_05
+  rotate: false
+  xy: 602, 328
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_06
+  rotate: false
+  xy: 804, 420
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_07
+  rotate: false
+  xy: 804, 328
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_08
+  rotate: false
+  xy: 198, 236
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_09
+  rotate: false
+  xy: 400, 236
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1
+wanghou_feng_10
+  rotate: false
+  xy: 198, 420
+  size: 200, 90
+  orig: 200, 90
+  offset: 0, 0
+  index: -1

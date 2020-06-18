@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1987,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base_map
+  rotate: false
+  xy: 2, 224
+  size: 1151, 536
+  orig: 1151, 548
+  offset: 0, 2
+  index: -1
+Cover
+  rotate: false
+  xy: 1142, 35
+  size: 333, 187
+  orig: 333, 187
+  offset: 0, 0
+  index: -1
+Hemisphere_roll
+  rotate: true
+  xy: 1514, 264
+  size: 496, 333
+  orig: 496, 333
+  offset: 0, 0
+  index: -1
+Hemisphere_roll2
+  rotate: true
+  xy: 1155, 229
+  size: 531, 357
+  orig: 580, 379
+  offset: 26, 8
+  index: -1
+ball
+  rotate: true
+  xy: 1477, 42
+  size: 185, 104
+  orig: 185, 164
+  offset: 0, 36
+  index: -1
+boll
+  rotate: false
+  xy: 1583, 20
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 1849, 614
+  size: 136, 146
+  orig: 136, 150
+  offset: 0, 3
+  index: -1
+lei
+  rotate: false
+  xy: 1849, 466
+  size: 136, 146
+  orig: 136, 150
+  offset: 0, 3
+  index: -1
+quan
+  rotate: false
+  xy: 1849, 318
+  size: 135, 146
+  orig: 137, 150
+  offset: 2, 3
+  index: -1
+shan
+  rotate: true
+  xy: 1849, 169
+  size: 147, 123
+  orig: 170, 123
+  offset: 12, 0
+  index: -1
+xing
+  rotate: false
+  xy: 2, 2
+  size: 1138, 220
+  orig: 1151, 230
+  offset: 3, 3
+  index: -1

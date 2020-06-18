@@ -1,0 +1,76 @@
+
+hongheidazhan_qiehuantouxiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_guanghuan_02
+  rotate: false
+  xy: 794, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_01
+  rotate: false
+  xy: 2, 200
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_02
+  rotate: false
+  xy: 2, 2
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_03
+  rotate: false
+  xy: 200, 200
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_04
+  rotate: false
+  xy: 200, 2
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_05
+  rotate: false
+  xy: 398, 200
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_06
+  rotate: false
+  xy: 398, 2
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_07
+  rotate: false
+  xy: 596, 200
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+hongheidazhan_qiehuan_08
+  rotate: false
+  xy: 596, 2
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+mask_glow_blen_6386
+  rotate: false
+  xy: 794, 268
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

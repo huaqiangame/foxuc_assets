@@ -1,0 +1,55 @@
+
+bairenniuniu_ying.png
+size: 236,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bairenniuniu_caidai
+  rotate: true
+  xy: 99, 4
+  size: 164, 62
+  orig: 164, 62
+  offset: 0, 0
+  index: -1
+bairenniuniu_glow
+  rotate: false
+  xy: 4, 314
+  size: 195, 196
+  orig: 200, 200
+  offset: 5, 2
+  index: -1
+bairenniuniu_xing
+  rotate: false
+  xy: 4, 5
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+bairenniuniu_zi
+  rotate: false
+  xy: 165, 99
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+gg
+  rotate: true
+  xy: 4, 102
+  size: 208, 89
+  orig: 208, 89
+  offset: 0, 0
+  index: -1
+noImage
+  rotate: false
+  xy: 203, 509
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+quan_00000
+  rotate: true
+  xy: 97, 172
+  size: 138, 133
+  orig: 150, 150
+  offset: 6, 9
+  index: -1

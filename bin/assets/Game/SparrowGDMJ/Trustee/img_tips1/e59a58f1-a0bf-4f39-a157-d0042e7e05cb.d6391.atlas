@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1614,1226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ljf_00000
+  rotate: false
+  xy: 965, 2
+  size: 315, 304
+  orig: 323, 320
+  offset: 8, 2
+  index: -1
+ljf_00001
+  rotate: false
+  xy: 1286, 4
+  size: 312, 304
+  orig: 323, 320
+  offset: 11, 2
+  index: -1
+ljf_00002
+  rotate: false
+  xy: 325, 2
+  size: 318, 304
+  orig: 323, 320
+  offset: 5, 2
+  index: -1
+ljf_00003
+  rotate: false
+  xy: 648, 308
+  size: 318, 304
+  orig: 323, 320
+  offset: 5, 2
+  index: -1
+ljf_00004
+  rotate: false
+  xy: 1290, 310
+  size: 315, 304
+  orig: 323, 320
+  offset: 8, 2
+  index: -1
+ljf_00005
+  rotate: false
+  xy: 968, 308
+  size: 316, 304
+  orig: 323, 320
+  offset: 7, 2
+  index: -1
+ljf_00006
+  rotate: false
+  xy: 970, 614
+  size: 318, 304
+  orig: 323, 320
+  offset: 5, 2
+  index: -1
+ljf_00007
+  rotate: false
+  xy: 2, 308
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1
+ljf_00008
+  rotate: false
+  xy: 2, 920
+  size: 322, 304
+  orig: 323, 320
+  offset: 1, 2
+  index: -1
+ljf_00009
+  rotate: false
+  xy: 2, 614
+  size: 322, 304
+  orig: 323, 320
+  offset: 1, 2
+  index: -1
+ljf_00010
+  rotate: false
+  xy: 649, 614
+  size: 319, 304
+  orig: 323, 320
+  offset: 4, 2
+  index: -1
+ljf_00011
+  rotate: false
+  xy: 972, 920
+  size: 319, 304
+  orig: 323, 320
+  offset: 4, 2
+  index: -1
+ljf_00012
+  rotate: false
+  xy: 1293, 920
+  size: 319, 304
+  orig: 323, 320
+  offset: 4, 2
+  index: -1
+ljf_00013
+  rotate: false
+  xy: 645, 2
+  size: 318, 304
+  orig: 323, 320
+  offset: 5, 2
+  index: -1
+ljf_00014
+  rotate: false
+  xy: 1290, 616
+  size: 318, 302
+  orig: 323, 320
+  offset: 5, 4
+  index: -1
+ljf_00015
+  rotate: false
+  xy: 326, 614
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1
+ljf_00016
+  rotate: false
+  xy: 649, 920
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1
+ljf_00017
+  rotate: false
+  xy: 2, 2
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1
+ljf_00018
+  rotate: false
+  xy: 325, 308
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1
+ljf_00019
+  rotate: false
+  xy: 326, 920
+  size: 321, 304
+  orig: 323, 320
+  offset: 2, 2
+  index: -1

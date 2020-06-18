@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 994,790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_begin_bg
+  rotate: false
+  xy: 617, 211
+  size: 281, 312
+  orig: 281, 312
+  offset: 0, 0
+  index: -1
+im_begin_gun
+  rotate: false
+  xy: 617, 525
+  size: 375, 263
+  orig: 375, 263
+  offset: 0, 0
+  index: -1
+im_begin_light
+  rotate: true
+  xy: 2, 150
+  size: 638, 613
+  orig: 665, 635
+  offset: 16, 12
+  index: -1
+im_begin_sidai
+  rotate: false
+  xy: 2, 2
+  size: 426, 146
+  orig: 429, 146
+  offset: 2, 0
+  index: -1
+im_begin_start
+  rotate: false
+  xy: 430, 34
+  size: 236, 114
+  orig: 240, 114
+  offset: 3, 0
+  index: -1
+q1
+  rotate: true
+  xy: 617, 160
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 900, 290
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 900, 446
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 900, 224
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+quan_00000
+  rotate: true
+  xy: 668, 71
+  size: 138, 133
+  orig: 150, 150
+  offset: 6, 9
+  index: -1
+shan
+  rotate: false
+  xy: 803, 86
+  size: 147, 123
+  orig: 170, 123
+  offset: 12, 0
+  index: -1
+star
+  rotate: false
+  xy: 900, 367
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

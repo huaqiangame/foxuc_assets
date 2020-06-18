@@ -1,0 +1,208 @@
+
+hongheidazhan_pk.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_1
+  rotate: true
+  xy: 828, 512
+  size: 503, 104
+  orig: 503, 104
+  offset: 0, 0
+  index: -1
+honghei_daoguang_01
+  rotate: true
+  xy: 2, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_02
+  rotate: true
+  xy: 79, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_03
+  rotate: true
+  xy: 156, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_04
+  rotate: true
+  xy: 156, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_05
+  rotate: true
+  xy: 156, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_06
+  rotate: true
+  xy: 233, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_07
+  rotate: true
+  xy: 310, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_daoguang_08
+  rotate: true
+  xy: 387, 2
+  size: 812, 75
+  orig: 812, 75
+  offset: 0, 0
+  index: -1
+honghei_dun
+  rotate: false
+  xy: 828, 31
+  size: 147, 175
+  orig: 147, 175
+  offset: 0, 0
+  index: -1
+honghei_gongzhu
+  rotate: false
+  xy: 464, 449
+  size: 362, 365
+  orig: 362, 365
+  offset: 0, 0
+  index: -1
+honghei_huanghou
+  rotate: false
+  xy: 464, 82
+  size: 362, 365
+  orig: 362, 365
+  offset: 0, 0
+  index: -1
+honghei_jian
+  rotate: false
+  xy: 828, 208
+  size: 121, 302
+  orig: 121, 302
+  offset: 0, 0
+  index: -1
+honghei_pk_di
+  rotate: false
+  xy: 2, 816
+  size: 797, 199
+  orig: 797, 199
+  offset: 0, 0
+  index: -1
+honghei_shandian_01
+  rotate: false
+  xy: 464, 10
+  size: 230, 70
+  orig: 230, 70
+  offset: 0, 0
+  index: -1
+honghei_shandian_02
+  rotate: true
+  xy: 934, 785
+  size: 230, 70
+  orig: 230, 70
+  offset: 0, 0
+  index: -1
+honghei_shandian_03
+  rotate: true
+  xy: 934, 553
+  size: 230, 70
+  orig: 230, 70
+  offset: 0, 0
+  index: -1
+honghei_shandian_04
+  rotate: true
+  xy: 951, 321
+  size: 230, 70
+  orig: 230, 70
+  offset: 0, 0
+  index: -1
+
+hongheidazhan_pk2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghei_guowang
+  rotate: false
+  xy: 2, 260
+  size: 362, 363
+  orig: 362, 363
+  offset: 0, 0
+  index: -1
+honghei_s
+  rotate: false
+  xy: 260, 172
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+honghei_suidian_01
+  rotate: false
+  xy: 366, 734
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_suidian_02
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_suidian_03
+  rotate: false
+  xy: 366, 476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_suidian_04
+  rotate: false
+  xy: 624, 734
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_suidian_05
+  rotate: false
+  xy: 624, 476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_suidian_06
+  rotate: false
+  xy: 366, 218
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+honghei_v
+  rotate: false
+  xy: 882, 883
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+honghei_wangzi
+  rotate: false
+  xy: 2, 625
+  size: 362, 365
+  orig: 362, 365
+  offset: 0, 0
+  index: -1

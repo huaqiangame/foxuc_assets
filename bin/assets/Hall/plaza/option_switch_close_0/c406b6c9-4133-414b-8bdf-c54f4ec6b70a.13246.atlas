@@ -1,0 +1,13 @@
+
+hongheidazhan_huoshen.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingzhang
+  rotate: false
+  xy: 2, 2
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1

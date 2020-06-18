@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xulie/zhen0000
+  rotate: false
+  xy: 123, 2
+  size: 119, 120
+  orig: 121, 121
+  offset: 1, 0
+  index: -1
+xulie/zhen0001
+  rotate: false
+  xy: 244, 2
+  size: 119, 120
+  orig: 121, 121
+  offset: 1, 0
+  index: -1
+xulie/zhen0002
+  rotate: false
+  xy: 482, 2
+  size: 113, 120
+  orig: 121, 121
+  offset: 4, 0
+  index: -1
+xulie/zhen0003
+  rotate: false
+  xy: 702, 2
+  size: 99, 120
+  orig: 121, 121
+  offset: 11, 0
+  index: -1
+xulie/zhen0004
+  rotate: false
+  xy: 890, 2
+  size: 77, 120
+  orig: 121, 121
+  offset: 22, 0
+  index: -1
+xulie/zhen0005
+  rotate: false
+  xy: 1032, 2
+  size: 51, 120
+  orig: 121, 121
+  offset: 35, 0
+  index: -1
+xulie/zhen0006
+  rotate: false
+  xy: 1120, 2
+  size: 23, 120
+  orig: 121, 121
+  offset: 49, 0
+  index: -1
+xulie/zhen0007
+  rotate: false
+  xy: 1085, 2
+  size: 33, 120
+  orig: 121, 121
+  offset: 44, 0
+  index: -1
+xulie/zhen0008
+  rotate: false
+  xy: 969, 2
+  size: 61, 120
+  orig: 121, 121
+  offset: 30, 0
+  index: -1
+xulie/zhen0009
+  rotate: false
+  xy: 803, 2
+  size: 85, 120
+  orig: 121, 121
+  offset: 18, 0
+  index: -1
+xulie/zhen0010
+  rotate: false
+  xy: 597, 2
+  size: 103, 120
+  orig: 121, 121
+  offset: 9, 0
+  index: -1
+xulie/zhen0011
+  rotate: false
+  xy: 365, 2
+  size: 115, 120
+  orig: 121, 121
+  offset: 3, 0
+  index: -1
+xulie/zhen0012
+  rotate: false
+  xy: 2, 2
+  size: 119, 120
+  orig: 121, 121
+  offset: 1, 0
+  index: -1

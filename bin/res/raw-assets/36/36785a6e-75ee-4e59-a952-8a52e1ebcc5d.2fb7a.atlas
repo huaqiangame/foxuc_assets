@@ -1,0 +1,34 @@
+
+hongheidazhan_shenshuanzishenglidaiji_wuya.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuyabody
+  rotate: false
+  xy: 2, 16
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+wuyatou01
+  rotate: false
+  xy: 2, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+wuyatou02
+  rotate: false
+  xy: 24, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+wuyatou03
+  rotate: false
+  xy: 46, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1

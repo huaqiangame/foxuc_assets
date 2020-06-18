@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1854,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 1450, 28
+  size: 291, 295
+  orig: 291, 295
+  offset: 0, 0
+  index: -1
+gg
+  rotate: true
+  xy: 1743, 89
+  size: 208, 89
+  orig: 208, 89
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 290, 3
+  size: 288, 309
+  orig: 288, 309
+  offset: 0, 0
+  index: -1
+k_00000
+  rotate: false
+  xy: 2, 2
+  size: 286, 310
+  orig: 320, 343
+  offset: 17, 17
+  index: -1
+k_00001
+  rotate: false
+  xy: 870, 6
+  size: 288, 309
+  orig: 320, 343
+  offset: 16, 17
+  index: -1
+k_00002
+  rotate: false
+  xy: 1152, 321
+  size: 288, 307
+  orig: 320, 343
+  offset: 16, 18
+  index: -1
+k_00003
+  rotate: false
+  xy: 1442, 325
+  size: 288, 303
+  orig: 320, 343
+  offset: 16, 20
+  index: -1
+k_00004
+  rotate: false
+  xy: 1160, 12
+  size: 288, 307
+  orig: 320, 343
+  offset: 16, 18
+  index: -1
+k_00005
+  rotate: false
+  xy: 576, 317
+  size: 288, 311
+  orig: 320, 343
+  offset: 16, 16
+  index: -1
+k_00006
+  rotate: false
+  xy: 580, 4
+  size: 288, 311
+  orig: 320, 343
+  offset: 16, 16
+  index: -1
+k_00007
+  rotate: false
+  xy: 866, 317
+  size: 284, 311
+  orig: 320, 343
+  offset: 18, 16
+  index: -1
+k_00008
+  rotate: false
+  xy: 292, 315
+  size: 282, 313
+  orig: 320, 343
+  offset: 19, 14
+  index: -1
+k_00009
+  rotate: false
+  xy: 2, 314
+  size: 288, 314
+  orig: 320, 343
+  offset: 16, 13
+  index: -1
+star
+  rotate: false
+  xy: 1771, 299
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 1732, 562
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 1743, 378
+  size: 90, 85
+  orig: 110, 95
+  offset: 9, 5
+  index: -1
+win_00000
+  rotate: false
+  xy: 1732, 465
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+ww_00001
+  rotate: true
+  xy: 1450, 9
+  size: 17, 36
+  orig: 120, 66
+  offset: 14, 15
+  index: -1
+ww_00002
+  rotate: true
+  xy: 1743, 6
+  size: 39, 37
+  orig: 120, 66
+  offset: 15, 15
+  index: -1
+ww_00003
+  rotate: true
+  xy: 1732, 332
+  size: 44, 37
+  orig: 120, 66
+  offset: 39, 15
+  index: -1
+ww_00004
+  rotate: true
+  xy: 1743, 47
+  size: 40, 37
+  orig: 120, 66
+  offset: 65, 15
+  index: -1
+ww_00005
+  rotate: true
+  xy: 1488, 14
+  size: 12, 33
+  orig: 120, 66
+  offset: 93, 19
+  index: -1

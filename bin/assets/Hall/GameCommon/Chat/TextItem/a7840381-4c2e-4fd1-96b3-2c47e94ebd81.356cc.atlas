@@ -1,0 +1,174 @@
+
+hongheidazhan_paixing_new.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozi
+  rotate: false
+  xy: 2, 158
+  size: 338, 84
+  orig: 338, 84
+  offset: 0, 0
+  index: -1
+baozi_1
+  rotate: false
+  xy: 2, 72
+  size: 338, 84
+  orig: 338, 84
+  offset: 0, 0
+  index: -1
+chibanga
+  rotate: false
+  xy: 394, 250
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+honghei_bao_a
+  rotate: false
+  xy: 444, 285
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+honghei_di
+  rotate: false
+  xy: 260, 440
+  size: 215, 60
+  orig: 215, 60
+  offset: 0, 0
+  index: -1
+honghei_jinhua_a
+  rotate: false
+  xy: 358, 400
+  size: 137, 38
+  orig: 137, 38
+  offset: 0, 0
+  index: -1
+honghei_shunjin_a
+  rotate: false
+  xy: 358, 360
+  size: 137, 38
+  orig: 137, 38
+  offset: 0, 0
+  index: -1
+honghei_shunzi_a
+  rotate: false
+  xy: 331, 284
+  size: 111, 38
+  orig: 111, 38
+  offset: 0, 0
+  index: -1
+honghei_zi_a
+  rotate: false
+  xy: 300, 33
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+jinhua_shenguang
+  rotate: false
+  xy: 2, 244
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sanguang
+  rotate: false
+  xy: 331, 324
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+sunjing_1
+  rotate: false
+  xy: 342, 151
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+sunjing_2
+  rotate: true
+  xy: 342, 196
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+sunjing_3
+  rotate: false
+  xy: 342, 105
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+sunjing_4
+  rotate: false
+  xy: 358, 324
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+sunjing_5
+  rotate: true
+  xy: 477, 466
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+sunjing_6
+  rotate: false
+  xy: 342, 72
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+sunjing_7
+  rotate: true
+  xy: 481, 241
+  size: 117, 29
+  orig: 117, 29
+  offset: 0, 0
+  index: -1
+sunjing_8
+  rotate: false
+  xy: 399, 259
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+sunzi_she
+  rotate: true
+  xy: 260, 244
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+sunzi_she_weiba
+  rotate: false
+  xy: 331, 254
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+title_guang_1
+  rotate: false
+  xy: 2, 21
+  size: 296, 49
+  orig: 296, 49
+  offset: 0, 0
+  index: -1
+title_huoxing
+  rotate: true
+  xy: 2, 2
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+title_shanguang
+  rotate: false
+  xy: 260, 342
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

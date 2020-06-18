@@ -1,0 +1,629 @@
+
+skeleton.png
+size: 1956,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00000
+  rotate: true
+  xy: 559, 958
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00001
+  rotate: false
+  xy: 758, 1232
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00002
+  rotate: false
+  xy: 758, 1033
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00003
+  rotate: false
+  xy: 758, 835
+  size: 350, 196
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00004
+  rotate: false
+  xy: 624, 636
+  size: 350, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00005
+  rotate: false
+  xy: 624, 437
+  size: 349, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00006
+  rotate: false
+  xy: 624, 238
+  size: 340, 197
+  orig: 350, 197
+  offset: 0, 0
+  index: -1
+a_00007
+  rotate: true
+  xy: 1766, 1444
+  size: 350, 180
+  orig: 350, 197
+  offset: 0, 3
+  index: -1
+jinbi_00000
+  rotate: true
+  xy: 1896, 339
+  size: 51, 58
+  orig: 59, 59
+  offset: 3, 1
+  index: -1
+jinbi_00001
+  rotate: false
+  xy: 1896, 503
+  size: 58, 58
+  orig: 59, 59
+  offset: 0, 1
+  index: -1
+jinbi_00002
+  rotate: false
+  xy: 397, 2
+  size: 46, 57
+  orig: 59, 59
+  offset: 5, 2
+  index: -1
+jinbi_00003
+  rotate: false
+  xy: 490, 2
+  size: 28, 57
+  orig: 59, 59
+  offset: 15, 2
+  index: -1
+jinbi_00004
+  rotate: false
+  xy: 445, 2
+  size: 43, 57
+  orig: 59, 59
+  offset: 7, 2
+  index: -1
+你赢了
+  rotate: false
+  xy: 2, 1281
+  size: 480, 173
+  orig: 481, 191
+  offset: 1, 3
+  index: -1
+你赢了_00000
+  rotate: false
+  xy: 1293, 1633
+  size: 471, 161
+  orig: 481, 191
+  offset: 6, 14
+  index: -1
+光_00000
+  rotate: false
+  xy: 2, 1055
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00001
+  rotate: false
+  xy: 2, 829
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00002
+  rotate: false
+  xy: 2, 603
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00003
+  rotate: false
+  xy: 2, 377
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00004
+  rotate: false
+  xy: 2, 151
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00005
+  rotate: true
+  xy: 398, 457
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00006
+  rotate: true
+  xy: 398, 61
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+光_00007
+  rotate: false
+  xy: 1293, 1407
+  size: 394, 224
+  orig: 395, 225
+  offset: 0, 0
+  index: -1
+同花顺
+  rotate: false
+  xy: 718, 1431
+  size: 437, 172
+  orig: 467, 187
+  offset: 17, 0
+  index: -1
+同花顺1
+  rotate: false
+  xy: 1854, 392
+  size: 77, 109
+  orig: 77, 111
+  offset: 0, 2
+  index: -1
+同花顺2
+  rotate: false
+  xy: 1472, 94
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+同花顺_00000
+  rotate: true
+  xy: 398, 853
+  size: 426, 159
+  orig: 467, 187
+  offset: 23, 11
+  index: -1
+四条
+  rotate: true
+  xy: 1110, 823
+  size: 301, 172
+  orig: 332, 186
+  offset: 17, 6
+  index: -1
+四条1
+  rotate: true
+  xy: 1602, 2
+  size: 102, 132
+  orig: 116, 143
+  offset: 9, 4
+  index: -1
+四条2
+  rotate: true
+  xy: 1817, 825
+  size: 102, 137
+  orig: 116, 143
+  offset: 9, 0
+  index: -1
+四条3
+  rotate: true
+  xy: 624, 850
+  size: 106, 132
+  orig: 116, 143
+  offset: 5, 4
+  index: -1
+四条4
+  rotate: true
+  xy: 1602, 106
+  size: 102, 136
+  orig: 116, 143
+  offset: 9, 0
+  index: -1
+四条_00000
+  rotate: true
+  xy: 1117, 360
+  size: 290, 159
+  orig: 332, 186
+  offset: 22, 17
+  index: -1
+彩_00000
+  rotate: true
+  xy: 1689, 1484
+  size: 147, 64
+  orig: 302, 262
+  offset: 61, 18
+  index: -1
+彩_00001
+  rotate: false
+  xy: 1109, 235
+  size: 163, 123
+  orig: 302, 262
+  offset: 66, 0
+  index: -1
+彩_00002
+  rotate: true
+  xy: 1773, 182
+  size: 204, 121
+  orig: 302, 262
+  offset: 67, 33
+  index: -1
+彩_00003
+  rotate: true
+  xy: 1817, 1204
+  size: 238, 123
+  orig: 302, 262
+  offset: 46, 54
+  index: -1
+彩_00004
+  rotate: true
+  xy: 955, 2
+  size: 234, 141
+  orig: 302, 262
+  offset: 19, 61
+  index: -1
+彩_00005
+  rotate: false
+  xy: 1596, 388
+  size: 256, 163
+  orig: 302, 262
+  offset: 28, 54
+  index: -1
+彩_00006
+  rotate: false
+  xy: 1608, 553
+  size: 245, 215
+  orig: 302, 262
+  offset: 26, 1
+  index: -1
+彩_00007
+  rotate: false
+  xy: 1532, 210
+  size: 239, 176
+  orig: 302, 262
+  offset: 23, 46
+  index: -1
+彩_00008
+  rotate: false
+  xy: 1278, 243
+  size: 252, 152
+  orig: 302, 262
+  offset: 20, 22
+  index: -1
+彩_00009
+  rotate: true
+  xy: 1098, 2
+  size: 206, 125
+  orig: 302, 262
+  offset: 76, 22
+  index: -1
+彩带_00000
+  rotate: false
+  xy: 1689, 1413
+  size: 58, 69
+  orig: 181, 197
+  offset: 0, 128
+  index: -1
+彩带_00001
+  rotate: false
+  xy: 1857, 65
+  size: 97, 115
+  orig: 181, 197
+  offset: 0, 82
+  index: -1
+彩带_00002
+  rotate: false
+  xy: 1157, 1440
+  size: 125, 163
+  orig: 181, 197
+  offset: 0, 34
+  index: -1
+彩带_00003
+  rotate: true
+  xy: 198, 7
+  size: 142, 197
+  orig: 181, 197
+  offset: 0, 0
+  index: -1
+彩带_00004
+  rotate: false
+  xy: 966, 238
+  size: 141, 197
+  orig: 181, 197
+  offset: 0, 0
+  index: -1
+彩带_00005
+  rotate: false
+  xy: 975, 437
+  size: 140, 197
+  orig: 181, 197
+  offset: 0, 0
+  index: -1
+彩带_00006
+  rotate: false
+  xy: 1335, 49
+  size: 135, 192
+  orig: 181, 197
+  offset: 8, 0
+  index: -1
+彩带_00007
+  rotate: true
+  xy: 1472, 16
+  size: 76, 126
+  orig: 181, 197
+  offset: 69, 0
+  index: -1
+彩带_00008
+  rotate: false
+  xy: 1881, 1009
+  size: 67, 91
+  orig: 181, 197
+  offset: 79, 0
+  index: -1
+桃花_00000
+  rotate: true
+  xy: 1615, 770
+  size: 305, 200
+  orig: 330, 200
+  offset: 1, 0
+  index: -1
+桃花_00001
+  rotate: false
+  xy: 624, 36
+  size: 329, 200
+  orig: 330, 200
+  offset: 1, 0
+  index: -1
+桃花_00002
+  rotate: false
+  xy: 1284, 1205
+  size: 329, 200
+  orig: 330, 200
+  offset: 1, 0
+  index: -1
+桃花_00003
+  rotate: false
+  xy: 1278, 397
+  size: 316, 200
+  orig: 330, 200
+  offset: 14, 0
+  index: -1
+桃花_00004
+  rotate: true
+  xy: 1615, 1077
+  size: 328, 200
+  orig: 330, 200
+  offset: 2, 0
+  index: -1
+桃花_00005
+  rotate: false
+  xy: 1278, 599
+  size: 328, 200
+  orig: 330, 200
+  offset: 2, 0
+  index: -1
+桃花_00006
+  rotate: false
+  xy: 1284, 1003
+  size: 329, 200
+  orig: 330, 200
+  offset: 1, 0
+  index: -1
+桃花_00007
+  rotate: false
+  xy: 1284, 801
+  size: 329, 200
+  orig: 330, 200
+  offset: 1, 0
+  index: -1
+皇家同花顺1
+  rotate: false
+  xy: 683, 1420
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+皇家同花顺2
+  rotate: true
+  xy: 1817, 929
+  size: 273, 62
+  orig: 283, 72
+  offset: 5, 5
+  index: -1
+皇家同花顺3
+  rotate: false
+  xy: 2, 1626
+  size: 714, 168
+  orig: 729, 180
+  offset: 0, 0
+  index: -1
+皇家同花顺4
+  rotate: true
+  xy: 1881, 936
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+皇家同花顺5
+  rotate: false
+  xy: 1740, 118
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+皇家同花顺6
+  rotate: false
+  xy: 484, 1310
+  size: 197, 144
+  orig: 197, 144
+  offset: 0, 0
+  index: -1
+皇家同花顺7
+  rotate: false
+  xy: 1225, 15
+  size: 108, 218
+  orig: 108, 231
+  offset: 0, 0
+  index: -1
+皇家同花顺8
+  rotate: false
+  xy: 718, 1605
+  size: 573, 189
+  orig: 573, 355
+  offset: 0, 166
+  index: -1
+皇家同花顺9_00000
+  rotate: false
+  xy: 2, 1456
+  size: 714, 168
+  orig: 729, 180
+  offset: 0, 6
+  index: -1
+葫芦1
+  rotate: true
+  xy: 1736, 2
+  size: 102, 119
+  orig: 105, 120
+  offset: 0, 1
+  index: -1
+葫芦2
+  rotate: true
+  xy: 2, 2
+  size: 147, 194
+  orig: 149, 211
+  offset: 0, 0
+  index: -1
+葫芦3
+  rotate: true
+  xy: 1855, 615
+  size: 208, 89
+  orig: 208, 89
+  offset: 0, 0
+  index: -1
+葫芦4
+  rotate: true
+  xy: 1110, 1126
+  size: 303, 172
+  orig: 303, 172
+  offset: 0, 0
+  index: -1
+葫芦5
+  rotate: false
+  xy: 559, 871
+  size: 53, 85
+  orig: 67, 90
+  offset: 10, 0
+  index: -1
+葫芦_00000
+  rotate: false
+  xy: 976, 652
+  size: 300, 169
+  orig: 329, 216
+  offset: 15, 26
+  index: -1
+藤
+  rotate: true
+  xy: 1855, 563
+  size: 50, 99
+  orig: 52, 101
+  offset: 1, 0
+  index: -1
+藤2
+  rotate: false
+  xy: 1881, 1102
+  size: 51, 100
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+蝴蝶30001
+  rotate: false
+  xy: 624, 835
+  size: 16, 13
+  orig: 182, 161
+  offset: 31, 55
+  index: -1
+蝴蝶30002
+  rotate: true
+  xy: 1836, 805
+  size: 18, 17
+  orig: 182, 161
+  offset: 56, 51
+  index: -1
+蝴蝶30003
+  rotate: false
+  xy: 1934, 1183
+  size: 20, 19
+  orig: 182, 161
+  offset: 99, 45
+  index: -1
+蝴蝶30004
+  rotate: true
+  xy: 1934, 1163
+  size: 18, 20
+  orig: 182, 161
+  offset: 98, 72
+  index: -1
+蝴蝶30005
+  rotate: false
+  xy: 1472, 222
+  size: 18, 19
+  orig: 182, 161
+  offset: 123, 100
+  index: -1
+蝴蝶30006
+  rotate: false
+  xy: 642, 835
+  size: 16, 13
+  orig: 182, 161
+  offset: 147, 77
+  index: -1
+蝴蝶30007
+  rotate: false
+  xy: 1817, 801
+  size: 17, 22
+  orig: 182, 161
+  offset: 165, 40
+  index: -1
+蝴蝶30008
+  rotate: true
+  xy: 559, 853
+  size: 16, 23
+  orig: 182, 161
+  offset: 150, 17
+  index: -1
+蝴蝶30009
+  rotate: false
+  xy: 1933, 480
+  size: 21, 21
+  orig: 182, 161
+  offset: 104, 2
+  index: -1
+蝴蝶30010
+  rotate: false
+  xy: 1098, 210
+  size: 17, 23
+  orig: 182, 161
+  offset: 81, 0
+  index: -1
+蝴蝶30011
+  rotate: false
+  xy: 484, 1284
+  size: 19, 24
+  orig: 182, 161
+  offset: 36, 9
+  index: -1
+蝴蝶30012
+  rotate: true
+  xy: 976, 636
+  size: 14, 21
+  orig: 182, 161
+  offset: 24, 33
+  index: -1

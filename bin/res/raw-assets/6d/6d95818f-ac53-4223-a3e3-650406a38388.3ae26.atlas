@@ -1,0 +1,167 @@
+
+hongheidazhan_guowang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghei_guowang_huangguan
+  rotate: false
+  xy: 358, 14
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+honghei_guowang_huxi
+  rotate: false
+  xy: 633, 29
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+honghei_guowang_huxi2
+  rotate: true
+  xy: 608, 26
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+honghei_guowang_jianjia
+  rotate: false
+  xy: 634, 111
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+honghei_guowang_meimao1
+  rotate: false
+  xy: 358, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+honghei_guowang_meimao2
+  rotate: true
+  xy: 527, 33
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+honghei_guowang_neichen
+  rotate: true
+  xy: 857, 99
+  size: 59, 129
+  orig: 59, 129
+  offset: 0, 0
+  index: -1
+honghei_guowang_pifeng
+  rotate: false
+  xy: 2, 5
+  size: 188, 249
+  orig: 188, 249
+  offset: 0, 0
+  index: -1
+honghei_guowang_pifeng2
+  rotate: true
+  xy: 192, 6
+  size: 98, 164
+  orig: 98, 164
+  offset: 0, 0
+  index: -1
+honghei_guowang_pifeng3
+  rotate: true
+  xy: 531, 175
+  size: 79, 181
+  orig: 79, 181
+  offset: 0, 0
+  index: -1
+honghei_guowang_po
+  rotate: false
+  xy: 857, 160
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+honghei_guowang_quanzhang
+  rotate: true
+  xy: 347, 162
+  size: 92, 182
+  orig: 92, 182
+  offset: 0, 0
+  index: -1
+honghei_guowang_shenti
+  rotate: false
+  xy: 192, 106
+  size: 153, 148
+  orig: 153, 148
+  offset: 0, 0
+  index: -1
+honghei_guowang_szi
+  rotate: false
+  xy: 446, 13
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+honghei_guowang_tou
+  rotate: false
+  xy: 358, 61
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+honghei_guowang_tou2
+  rotate: false
+  xy: 452, 60
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+honghei_guowang_tou3
+  rotate: false
+  xy: 543, 74
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+honghei_guowang_tui
+  rotate: false
+  xy: 714, 125
+  size: 141, 129
+  orig: 141, 129
+  offset: 0, 0
+  index: -1
+honghei_guowang_youbi
+  rotate: false
+  xy: 634, 49
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+honghei_guowang_youshou
+  rotate: false
+  xy: 978, 206
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+honghei_guowang_zuobi
+  rotate: true
+  xy: 543, 13
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+honghei_guowang_zuoshou
+  rotate: true
+  xy: 777, 65
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+honghei_guowang_zuoshou2
+  rotate: false
+  xy: 712, 63
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+hongheidazhan_gongzhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongzhu_hudie_01
+  rotate: false
+  xy: 2, 173
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_02
+  rotate: false
+  xy: 180, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_03
+  rotate: false
+  xy: 2, 43
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_04
+  rotate: false
+  xy: 310, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_05
+  rotate: false
+  xy: 180, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_06
+  rotate: false
+  xy: 310, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_07
+  rotate: false
+  xy: 132, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gongzhu_hudie_08
+  rotate: false
+  xy: 262, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_biyan
+  rotate: true
+  xy: 132, 252
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_bozi
+  rotate: true
+  xy: 42, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_honghua
+  rotate: false
+  xy: 354, 32
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_huaganpng
+  rotate: true
+  xy: 392, 137
+  size: 2, 55
+  orig: 2, 55
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_huangguan
+  rotate: false
+  xy: 2, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_huanghua
+  rotate: true
+  xy: 155, 273
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_juhua
+  rotate: true
+  xy: 440, 252
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_penghua
+  rotate: false
+  xy: 440, 425
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_shenti
+  rotate: false
+  xy: 2, 303
+  size: 176, 207
+  orig: 176, 207
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_shouzhang
+  rotate: false
+  xy: 66, 13
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_shouzhi
+  rotate: false
+  xy: 155, 252
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_tou
+  rotate: true
+  xy: 132, 27
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_tou2
+  rotate: true
+  xy: 243, 27
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_tou3
+  rotate: false
+  xy: 392, 141
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_youbi
+  rotate: false
+  xy: 440, 272
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_youjian
+  rotate: false
+  xy: 354, 62
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_zuiba
+  rotate: true
+  xy: 462, 252
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_zuojian
+  rotate: false
+  xy: 440, 303
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+honghei_gongzhu_zuoshou
+  rotate: false
+  xy: 440, 360
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1

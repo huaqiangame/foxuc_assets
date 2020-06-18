@@ -1,0 +1,160 @@
+
+hongheidazhan_wangzi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghei_wangzi_biyan
+  rotate: false
+  xy: 818, 193
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+honghei_wangzi_bozi
+  rotate: false
+  xy: 2, 2
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+honghei_wangzi_bozi2
+  rotate: false
+  xy: 96, 2
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+honghei_wangzi_bozi3
+  rotate: true
+  xy: 444, 162
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+honghei_wangzi_huangguan
+  rotate: false
+  xy: 628, 162
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+honghei_wangzi_jian
+  rotate: true
+  xy: 151, 190
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+honghei_wangzi_luoye1
+  rotate: true
+  xy: 912, 216
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+honghei_wangzi_luoye2
+  rotate: true
+  xy: 869, 217
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+honghei_wangzi_luoye3
+  rotate: true
+  xy: 954, 217
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+honghei_wangzi_luoye4
+  rotate: false
+  xy: 866, 188
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+honghei_wangzi_pifeng
+  rotate: false
+  xy: 2, 101
+  size: 147, 153
+  orig: 147, 153
+  offset: 0, 0
+  index: -1
+honghei_wangzi_shenti
+  rotate: true
+  xy: 190, 5
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+honghei_wangzi_shoubi
+  rotate: false
+  xy: 280, 132
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+honghei_wangzi_toufa
+  rotate: false
+  xy: 725, 190
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+honghei_wangzi_yiling
+  rotate: false
+  xy: 329, 191
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+honghei_wangzi_youjiao
+  rotate: true
+  xy: 329, 205
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+honghei_wangzi_youshou
+  rotate: true
+  xy: 667, 159
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+honghei_wangzi_zuobi
+  rotate: false
+  xy: 818, 218
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+honghei_wangzi_zuojian
+  rotate: true
+  xy: 628, 193
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+honghei_wangzi_zuojiao
+  rotate: true
+  xy: 151, 114
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+honghei_wangzi_zuoshou
+  rotate: false
+  xy: 996, 229
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+star110_1196
+  rotate: false
+  xy: 543, 171
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
