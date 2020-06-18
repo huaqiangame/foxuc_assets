@@ -4,7 +4,7 @@ typedef SettingObj = {
 	var rawAssets:RawAssetsObj;
 	var md5AssetsMap:MD5AssetsMap;
 	var uuids:Array<String>;
-	var ?uuidsCrack:Array<String>;
+	var ?uuidsCrack:Map<String,String>;
 	var packedAssets:DynamicAccess<Array<Dynamic>>;
 }
 

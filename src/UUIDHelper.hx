@@ -1,3 +1,4 @@
+import haxe.ds.Map;
 using StringTools;
 using StringHelper;
 class UUIDHelper {
@@ -10,13 +11,13 @@ class UUIDHelper {
 	}
 
 
-	public static function decompressUuidArray(arr:Array<String>):Array<String> {
+	public static function decompressUuidArray(arr:Array<String>):Map<String,String>{
 
 
-		var out=[];
+		var out:Map<String,String>=[];
 		for(i in 0...arr.length){
 
-			out.push(decompressUuid(arr[i]));
+			out[arr[i]]=(decompressUuid(arr[i]));
 		}
 
 		return out;

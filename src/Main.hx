@@ -23,7 +23,7 @@ class Main {
 		// 分析对应的key.
 		setting.md5AssetsMap.importKeys = PackedAssetsParse.createMap(setting.md5AssetsMap.import2);
 		setting.md5AssetsMap.rawassetKeys = PackedAssetsParse.createMap(setting.md5AssetsMap.rawassets);
-		setting.uuidsCrack=UUIDHelper.decompressUuidArray(setting.uuids);
+	//	setting.uuidsCrack=UUIDHelper.decompressUuidArray(setting.uuids);
 		
 		
 		
@@ -37,6 +37,7 @@ class Main {
 
 		var assets = setting.rawAssets.assets;
 
+		var disMap:Map<String,String>=[];
 		for (keys => value in assets) {
 			var path = value[0];
 			var ex = value[1];
@@ -47,6 +48,8 @@ class Main {
 		var findNums = 0;
 
 		var copyNums = 0;
+
+		var disFiles:Array<String>=[];
 		// key+"."+key.
 		for (key => value in packedassets) {
 			trace(key);
@@ -62,13 +65,27 @@ class Main {
 				findNums++;
 				for (fo in value) {
 					if (fo != null) {
+
+						if(Std.string(fo)=='1340'){
+							trace('fuck');
+						}
 						var distFolder:Array<Dynamic> = assets.get(Std.string(fo));
 						if (distFolder != null) {
 							// var distFiles=distFolder[0]+"/"
 							var distFile = createFloder(distFolder[0]) + "/" + file;
 							if (!FileSystem.exists(distFile)) {
 								File.copy(filesName, distFile);
+								
 							}
+							if(disFiles.indexOf(distFile)==-1){
+
+								if(distFile.indexOf("0bc18e477.0942f")!=-1){
+									trace('ok');
+								}
+								disFiles.push(distFile);
+								disMap[distFile]=Std.string(fo);//setting.md5AssetsMap.importKeys[Std.string(key)];
+							}
+							
 
 							copyNums++;
 						} else {
@@ -83,10 +100,76 @@ class Main {
 
 
 
-		
+		var keyMaps:Map<String,String>=[];
 
-		File.saveContent("bin/assets/uuid.json",Json.stringify(setting));
+
+		for(fs in disFiles){
+
+			if(fs.indexOf('0fad7c004.00762')!=-1){
+				trace('-1');
+			}
+			var content=File.getContent(fs);
+			var r:EReg=~/texture".+?,/g;
+
+			var arr=getMatches(r,content);
+
+			for(e in arr){
+
+				var key=e.replace(" ","").substring(10,e.length-2);
+
+				if(key.indexOf('es')!=-1){
+					trace('ok');
+				}
+				if(key.length<16){
+					continue;
+				}
+
+
+
+				var v=UUIDHelper.decompressUuid(key);
+				keyMaps[key]=v;
+
+				var importFolder=v.substring(0,2);
+
+				var assetsKey=disMap[fs];
+	
+				var  assetsV=setting.md5AssetsMap.rawassetKeys[assetsKey];
+
+				var folder='bin/res/raw-assets/' + importFolder + "/";
+
+				var files=FileSystem.readDirectory(folder);
+				//var filesName = 'bin/res/raw-assets/' + importFolder + "/" + v +"." +assetsV + ".png";
+
+
+				
+				
+
+				for(fss in files){
+					var ext=Path.withoutDirectory(fss);
+					var disFile=Path.directory(fs)+"/" + ext;
+					var fromFile=folder+  fss;
+					File.copy(fromFile,disFile);
+				}
+
+			}
+
+
+		}
+
+		File.saveContent("bin/assets/uuid.json",Json.stringify(keyMaps));
+		trace('保存完毕');
 	}
+
+	
+	static function getMatches(ereg:EReg, input:String, index:Int = 0):Array<String> {
+		var matches = [];
+		while (ereg.match(input)) {
+		  matches.push(ereg.matched(index)); 
+		  input = ereg.matchedRight();
+		}
+		return matches;
+	  }
+	  
 
 	static function createFloder(folderName:String):String {
 		folderName = Path.withoutExtension("bin/assets/" + folderName).replace(" ", "");

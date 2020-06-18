@@ -1,0 +1,160 @@
+
+GameLevel0.png
+size: 1982,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_L
+  rotate: false
+  xy: 4, 4
+  size: 138, 188
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+00_R
+  rotate: true
+  xy: 539, 11
+  size: 181, 235
+  orig: 181, 235
+  offset: 0, 0
+  index: -1
+01_L
+  rotate: true
+  xy: 1413, 47
+  size: 221, 147
+  orig: 221, 147
+  offset: 0, 0
+  index: -1
+01_R
+  rotate: true
+  xy: 1211, 27
+  size: 241, 198
+  orig: 241, 198
+  offset: 0, 0
+  index: -1
+02_L
+  rotate: false
+  xy: 1564, 146
+  size: 214, 122
+  orig: 214, 122
+  offset: 0, 0
+  index: -1
+02_R
+  rotate: true
+  xy: 1038, 10
+  size: 242, 169
+  orig: 242, 169
+  offset: 0, 0
+  index: -1
+03_L
+  rotate: true
+  xy: 1564, 19
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+03_R
+  rotate: false
+  xy: 1795, 488
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 1105, 272
+  size: 686, 364
+  orig: 686, 364
+  offset: 0, 0
+  index: -1
+Base_Glow
+  rotate: false
+  xy: 4, 196
+  size: 740, 440
+  orig: 740, 440
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 146, 6
+  size: 389, 186
+  orig: 389, 186
+  offset: 0, 0
+  index: -1
+EYE_L
+  rotate: true
+  xy: 1908, 89
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+EYE_R
+  rotate: false
+  xy: 1908, 140
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+H_L01
+  rotate: true
+  xy: 778, 7
+  size: 245, 256
+  orig: 245, 256
+  offset: 0, 0
+  index: -1
+H_L02
+  rotate: false
+  xy: 1687, 19
+  size: 82, 123
+  orig: 82, 123
+  offset: 0, 0
+  index: -1
+H_R01
+  rotate: false
+  xy: 748, 256
+  size: 353, 380
+  orig: 353, 380
+  offset: 0, 0
+  index: -1
+H_R02
+  rotate: false
+  xy: 1795, 329
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+M_L
+  rotate: true
+  xy: 1908, 224
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+M_R
+  rotate: true
+  xy: 1908, 279
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+N_L
+  rotate: true
+  xy: 1908, 193
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+N_R
+  rotate: true
+  xy: 1211, 8
+  size: 15, 68
+  orig: 15, 68
+  offset: 0, 0
+  index: -1
+bwxj
+  rotate: true
+  xy: 1795, 29
+  size: 296, 109
+  orig: 296, 109
+  offset: 0, 0
+  index: -1

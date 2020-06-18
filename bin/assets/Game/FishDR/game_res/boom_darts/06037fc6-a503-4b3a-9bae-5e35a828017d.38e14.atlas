@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgl
+  rotate: false
+  xy: 2, 372
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz01
+  rotate: false
+  xy: 515, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz02
+  rotate: false
+  xy: 515, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz03
+  rotate: false
+  xy: 515, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz04
+  rotate: false
+  xy: 515, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz05
+  rotate: false
+  xy: 581, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi/tc_fz06
+  rotate: false
+  xy: 581, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+quanmin
+  rotate: true
+  xy: 996, 943
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+xulie/saog-1
+  rotate: false
+  xy: 2, 214
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-10
+  rotate: false
+  xy: 825, 708
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-11
+  rotate: false
+  xy: 344, 56
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-12
+  rotate: false
+  xy: 654, 392
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-13
+  rotate: false
+  xy: 825, 550
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-14
+  rotate: false
+  xy: 825, 392
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-2
+  rotate: false
+  xy: 654, 866
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-3
+  rotate: false
+  xy: 2, 56
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-4
+  rotate: false
+  xy: 173, 214
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-5
+  rotate: false
+  xy: 654, 708
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-6
+  rotate: false
+  xy: 825, 866
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-7
+  rotate: false
+  xy: 173, 56
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-8
+  rotate: false
+  xy: 344, 214
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+xulie/saog-9
+  rotate: false
+  xy: 654, 550
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+yueru
+  rotate: false
+  xy: 515, 266
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
