@@ -12,7 +12,7 @@ class Main {
 		//	trace("Hello, world!");
 		// var x=UUIDHelper.decompressUuid('3aTva/v/lOc7vg1JhzKyWH');
 
-		var content:String = File.getContent('bin/data/Setting.json');
+		var content:String = File.getContent('bin/data/settings.89580.json');
 
 		var setting:SettingObj = Json.parse(content);
 
